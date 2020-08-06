@@ -48,5 +48,7 @@ normal ___italic&bold___ normal
 |align left|align right|align center|
 |a|b|c|
 
-[参考にしたページ](https://qiita.com/tbpgr/items/989c6badefff69377da7)
+---
+
+### [参考にしたページ](https://qiita.com/tbpgr/items/989c6badefff69377da7)
 
