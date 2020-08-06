@@ -38,7 +38,7 @@ normal ___italic&bold___ normal
 　end
 ~~~
 ~~~python
-　class Hoge
-　  def hoge
+　class Hoge:
+　  def hoge:
 　    print('hoge')
 ~~~
