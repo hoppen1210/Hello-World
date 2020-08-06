@@ -47,6 +47,7 @@ normal ___italic&bold___ normal
 |:--|--:|:--:|
 |align left|align right|align center|
 |a|b|c|
+|aaaaaaa|bbbbbbb|c|
 ### |aaaaaaa|bbbbbbb|c|
 
 ---
