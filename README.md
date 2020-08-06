@@ -42,3 +42,9 @@ normal ___italic&bold___ normal
 　  def hoge:
 　    print('hoge')
 ~~~
+
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|
+
