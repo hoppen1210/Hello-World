@@ -2,7 +2,7 @@
 Noriokureta Bus
 
 
-# Test
+# 以下、Markdown記法の練習
 - test
   - test
 ---
@@ -47,4 +47,6 @@ normal ___italic&bold___ normal
 |:--|--:|:--:|
 |align left|align right|align center|
 |a|b|c|
+
+[参考にしたページ](https://qiita.com/tbpgr/items/989c6badefff69377da7)
 
